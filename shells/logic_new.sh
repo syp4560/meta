@@ -1,7 +1,7 @@
 #!/bin/bash
 
-opt=$1
-opt=$2
+opt1=$1
+opt2=$2
 
 if [ $# -eq 2 ]; then
     if [ $opt1 == 'test' -a $opt2 == "aaa" ]; then

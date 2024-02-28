@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ipt=$1
+opt=$1
 
 if [ $opt == 'test' -o $opt == "aaa" ]; then
     echo good
